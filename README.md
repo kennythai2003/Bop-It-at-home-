@@ -1,6 +1,7 @@
 # Bop It! (at home)  
 *by Kenny Thai*  
 *June 12, 2024*
+[Video Demo](https://www.youtube.com/watch?v=Cod0daSMnFg&ab_channel=KennyThai)
 
 ## Introduction  
 This project replicates the classic game **"Bop It!"** with some modifications. The game outputs a command, and the player must respond correctly within a set time limit. If successful, the next command is prompted; otherwise, the game resets, and the score is displayed. The objective is to complete as many commands as possible, with points earned for each successful action. The game increases in difficulty as the time limit shortens after each round.
