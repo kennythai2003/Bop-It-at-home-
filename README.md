@@ -1,6 +1,7 @@
 # Bop It! (at home)  
 *by Kenny Thai*  
 *June 12, 2024*
+
 [Video Demo](https://www.youtube.com/watch?v=Cod0daSMnFg&ab_channel=KennyThai)
 
 ## Introduction  
