@@ -1,4 +1,4 @@
-# Bop It At Home  
+# Bop It! (at home)  
 **Custom Laboratory Project Report**  
 *by Kenny Thai*  
 *June 12, 2024*
