@@ -1,5 +1,4 @@
 # Bop It! (at home)  
-**Custom Laboratory Project Report**  
 *by Kenny Thai*  
 *June 12, 2024*
 
@@ -39,6 +38,4 @@ The game becomes progressively harder as the time limit for each command decreas
 - **timerISR.h**  
   Sets up the concurrent state machines.
 
-## Wiring Diagram  
-![Wiring Diagram](path/to/your/wiring_diagram_image.png)  
-*(Include the path to the wiring diagram image here)*
+
