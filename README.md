@@ -9,11 +9,11 @@ This project replicates the classic game **"Bop It!"** with some modifications. 
 
 ## Build-Upons  
 - **PIR Sensor**  
-  - Implemented successfully
+  - Used to detect motion (hover action)
 - **DHT-11 Sensor**  
-  - Implemented successfully
+  - Used to detect temperature change (blow action)
 - **IR Remote**  
-  - Implemented successfully
+  - Used to turn the game on/off
 
 ## User Guide  
 To start the game, press the power button on the IR Remote. The LCD display will show a command, such as **press**, **up**, **down**, **left**, **right**, **blow**, or **hover**.  
